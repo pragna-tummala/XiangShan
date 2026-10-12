@@ -159,6 +159,7 @@ object Extensions {
     Za64rs, Zabha, Zacas, ZacasZabha, Zawrs,
     Zba, Zbb, Zbc, Zbs, Zbkb, Zbkc, Zbkx,
     V, H,
+    // Zvknha,
     Zvknha,
     Zvbb,
     XSTrap,
